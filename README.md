@@ -1,2 +1,2 @@
-# site-yersOld
- ExercicioJavaScript
+# site-yerOld
+ Exercicio JavaScript criado durante aula sobre if e else com prof. Guanabara.
